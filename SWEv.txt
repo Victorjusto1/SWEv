@@ -1,5 +1,5 @@
-46|0|27|1|0|20|END: 	JULY, 1. <COLOR=#fa0a2e>	22:00h</color>
+46|1|27|1|0|23|END: 	JULY, 1. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	JULY ,2. 	<COLOR=#42f551>16:30h</color>
-REWARD:	<COLOR=orange>500 cr.</color>|WELL DONE, LEMONHEAD!|  
+REWARD:	<COLOR=orange>500 cr.</color>| |  
     
   CAR|SKIN|CIRCUIT|LAPS|WEATHER|HOUR|MESSAGE|DAILYMESSAGE
