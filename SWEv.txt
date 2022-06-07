@@ -1,1 +1,3 @@
-Circuitprofile | Es justo lo que necesitaba | Muchas gracias | end.
+46|0|27|1|0|    
+    
+  CAR|SKIN|CIRCUIT|LAPS|WEATHER|HOUR
