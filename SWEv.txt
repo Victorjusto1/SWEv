@@ -1,5 +1,5 @@
 46|2|27|1|0|21|END: 	JULY, 1. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	JULY ,2. 	<COLOR=#42f551>16:30h</color>
-REWARD:	<COLOR=orange>500 cr.</color>|Lemonhead is new Tronkenobi?|  
+REWARD:	<COLOR=orange>500 cr.</color>|Is lemonhead the new Tronkenobi?|  
     
   CAR|SKIN|CIRCUIT|LAPS|WEATHER|HOUR|MESSAGE|DAILYMESSAGE
