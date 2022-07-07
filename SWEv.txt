@@ -1,4 +1,4 @@
-82|0|4|5|0|9|END: 	JULY, 29. <COLOR=#fa0a2e>	22:00h</color>
+18|0|4|5|0|9|END: 	JULY, 29. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	JULY ,30. 	<COLOR=#42f551>16:30h</color>
 REWARD:	<COLOR=orange>500 cr.</color>|Good luck!|  
     
