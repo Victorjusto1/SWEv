@@ -1,5 +1,5 @@
-83|0|14|5|0|8|END: 	AUGUST, 15. <COLOR=#fa0a2e>	22:00h</color>
-NEXT: 	AUGUST ,16. 	<COLOR=#42f551>16:30h</color>
-REWARD:	<COLOR=orange>500 cr.</color>|Good luck!|  
+83|0|14|5|0|8|END: 	SEPTEMBER, 1. <COLOR=#fa0a2e>	22:00h</color>
+NEXT: 	SEPTEMBER ,2. 	<COLOR=#42f551>16:30h</color>
+REWARD:	<COLOR=orange>500 cr.</color>|Congratulations Nirvana78!!|  
     
   CAR|SKIN|CIRCUIT|LAPS|WEATHER|23|MESSAGE|DAILYMESSAGE
