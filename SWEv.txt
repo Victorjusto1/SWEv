@@ -1,4 +1,4 @@
-90|2|11|5|0|8|END: 	SEPTEMBER, 16. <COLOR=#fa0a2e>	22:00h</color>
+90|2|11|5|0|17|END: 	SEPTEMBER, 16. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	SEPTEMBER ,17. 	<COLOR=#42f551>16:30h</color>
 REWARD:	<COLOR=orange>500 cr.</color>|SWGP First Anniversary! The winner will receive a €25 voucher on Steam! Good luck!|  
     
