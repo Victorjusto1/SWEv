@@ -1,4 +1,4 @@
-90|2|11|5|0|17|END: 	SEPTEMBER, 30. <COLOR=#fa0a2e>	22:00h</color>
+66|0|8|3|0|10|END: 	SEPTEMBER, 30. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	OCTOVER ,1. 	<COLOR=#42f551>16:30h</color>
 REWARD:	<COLOR=orange>500 cr.</color>|   |  
     
