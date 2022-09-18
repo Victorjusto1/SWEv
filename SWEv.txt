@@ -1,5 +1,5 @@
-90|2|11|5|0|17|END: 	SEPTEMBER, 16. <COLOR=#fa0a2e>	22:00h</color>
-NEXT: 	SEPTEMBER ,17. 	<COLOR=#42f551>16:30h</color>
-REWARD:	<COLOR=orange>500 cr.</color>|Congratulations Dr. Eggman! Please contact @vijudagd via twitter to collect the reward.|  
+90|2|11|5|0|17|END: 	SEPTEMBER, 30. <COLOR=#fa0a2e>	22:00h</color>
+NEXT: 	OCTOVER ,1. 	<COLOR=#42f551>16:30h</color>
+REWARD:	<COLOR=orange>500 cr.</color>|   |  
     
       CAR|SKIN|CIRCUIT|LAPS|WEATHER|hour|MESSAGE|DAILYMESSAGE
