@@ -1,4 +1,4 @@
-15|0|10|3|0|10|END: 	OCTOBER, 14. <COLOR=#fa0a2e>	22:00h</color>
+15|0|10|3|2|5|END: 	OCTOBER, 14. <COLOR=#fa0a2e>	22:00h</color>
 NEXT: 	OCTOBER ,15. 	<COLOR=#42f551>16:30h</color>
 REWARD:	<COLOR=orange>500 cr.</color>|   |  
     
