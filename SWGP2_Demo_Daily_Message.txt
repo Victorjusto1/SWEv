@@ -7,3 +7,4 @@ This demo represents a small part of the arcade mode of the final game, in which
 ■New game modes.
 ■Individual online leaderboards for each event.
 ■Drift events, and more...
+<color=orange>and...Keep an eye out for shortcuts!</color>
