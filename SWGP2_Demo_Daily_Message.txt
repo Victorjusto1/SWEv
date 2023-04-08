@@ -1,1 +1,9 @@
-Hello world...
+Thank you for playing -the arcade demo-.
+This demo represents a small part of the arcade mode of the final game, in which you are waiting for:
+■more than 150 cars from 8 brands from all over the world (and counting)
+■dozens of original circuits and circuits inspired by world locations 
+■dozens of rally stages
+■A huge campaign mode with infinite possibilities.
+■New game modes.
+■Individual online leaderboards for each event.
+■Drift events, and more...
