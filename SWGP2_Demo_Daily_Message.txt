@@ -1,10 +1,8 @@
-Thank you for playing -the arcade demo-.
-This demo represents a small part of the arcade mode of the final game, in which you are waiting for:
-■more than 150 cars from 8 brands from all over the world (and counting)
-■dozens of original circuits and circuits inspired by world locations 
-■dozens of rally stages
-■A huge campaign mode with infinite possibilities.
-■New game modes.
-■Individual online leaderboards for each event.
-■Drift events, and more...
+<color=orange>-THE ARCADE DEMO CONTEST-</color>
+This demo represents a small part of the arcade mode of the final game.
+The top 5 overall times <color=red>[excluding Devs]</color>, once the countdown is over, will get the full game for free on release day (TBD).
+
+First place will get a special prize and will appear as a pilot in the full game.
+
+Good luck!
 <color=orange>and...Keep an eye out for shortcuts!</color>
