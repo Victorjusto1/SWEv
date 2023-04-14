@@ -1,9 +1,10 @@
-<color=orange>-THE ARCADE DEMO CONTEST-</color>
-This demo represents a small part of the arcade mode of the final game.
-The top 5 overall times <color=red>[excluding Devs]</color>, once the countdown is over, will get the full game for free on release day (TBD).
+The contest is over! Congratulations to the winners:
+<color=orange>MS | Doghouse,
+MS | SirMph26,MS | White Van Man,
+lemonheadiv,
+1yfee!
+</color>
+It has been an exciting contest, despite the fact that I have not been able to come close to the best time. Thank you very much for supporting my humble project. When I publish the game, I will contact the winners on Steam.
+All the best.
 
-First place will get a special prize and will appear as a pilot in the full game.
-
-Good luck!
-
-<color=orange>and...Keep an eye out for shortcuts!</color>
+<color=red>Victor.</color>
