@@ -1,2 +1,2 @@
-bannedid
+76561197998281238
 bannedid
