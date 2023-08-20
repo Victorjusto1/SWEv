@@ -1,3 +1,4 @@
+*windows*
 Añadidos nuevos rallys como argentina y un campeonato del mundo de rallyes de clase 300's. Añadido Saturn Ring y Speed Festival Senior.
 Casi todos los campeonatos WGP estan listos, añadido el de grupo 5. En la proxima actualizacion, ya pora completarse el juego.
 
