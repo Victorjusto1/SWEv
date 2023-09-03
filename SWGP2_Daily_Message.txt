@@ -1,8 +1,5 @@
-Ya solo falta añadir la copa del mundo!
-
-Añadidos nuevos rallys como argentina y un campeonato del mundo de rallyes de clase 300's. 
-Añadido Saturn Ring y Speed Festival Senior.
-
-Casi todos los campeonatos WGP estan listos, añadido el de Gr-5. 
-
-En la proxima actualizacion, ya podrá completarse el juego. A falta de engordar el contenido con más rallyes y competiciones. Pero lo esencial, está.
+Ahora sale una advertencia acustica y visual en el centro cuando el vehiculo está en estado crítico.
+Corregidos algunos bugs en el multijugador.
+Mejorada la IA para que decida mejor como actuar en caso de obstaculos y coches.
+Ajustada la dificultad en algunas carreras.
+Añadidos circuitos nuevos como EISENACH.
