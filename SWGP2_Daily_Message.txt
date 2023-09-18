@@ -1,1 +1,3 @@
 HORROR. Me he dado cuenta que en las carreras con vuelta lanzada, si es en una liga, el reparto de puntos lo hacía al revés. Asique lanzaré una actualzación expres en unos minutos.
+
+He añadido la opcion de borrar partidas desde las opciones manteniendo apretado (X) en Xbox o Cuadrado en Play Station. Con teclado, tecla Supr (Del).
