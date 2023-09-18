@@ -1,5 +1,5 @@
-Ahora sale una advertencia acustica y visual en el centro cuando el vehiculo está en estado crítico.
-Corregidos algunos bugs en el multijugador.
-Mejorada la IA para que decida mejor como actuar en caso de obstaculos y coches.
-Ajustada la dificultad en algunas carreras.
-Añadidos circuitos nuevos como EISENACH.
+GRACIAS A TODOS POR VUESTRO TRABAJO!
+
+Hoy me siento algo más motivado porque he podido terminar el juego de arriba abajo, es decir una partida completa. Me ha llevado unas 12 horas y estoy mas que satisfecho.
+
+Pero HORROR. Me he dado cuenta que en las carreras con vuelta lanzada, si es en una liga, el reparto de puntos lo hacía al revés. Asique lanzaré una actualzación expres en unos minutos.
